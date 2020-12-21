@@ -1,6 +1,6 @@
 # ProLintData
 
-Sample files to test the ProLint webserver (www.prolint.ca). You can also access the same files on the following Dropbox folder:
+Sample files to test the ProLint webserver (www.prolint.ca). You can also access the same files on the following [Dropbox](https://www.dropbox.com/sh/uluh54ye5sevv0q/AAAqpvZ_OO6iWjAcjaHIpAXSa?dl=0) folder.
 
 Each folder contains results for a different system or protein. Within each folder, files are separated according to their size. If you only want to test the functionality of the webserver, you may want to choose files within the *small* folders, but please note that results won't be as accurate compared to the larger files. Once you decide on a system, download the files to your machine.
 
